@@ -27,26 +27,26 @@ Method 2(Use cmd or amd):
 <br>
 # API LIST: #
 
-1. [error](#ipick.error): This function provide a callback parameter for dispose technology limited in chrome browser.
-2. config: Setting which type to call iPick(either 'iframe' of 'a' element).
-3. setShareConfig: Set shared config for top right corner share button of in-app webview.
-4. callShare: Trigger share function directly.
-5. callRestaurantDetail: Call restaurant detail by restaurant's id.
-6. callSearchList: Call search result of restaurant list by condition parameters.
-7. callInappWebview: Call in-app webview.
-8. callArticleDetail: Call article(critics) detail by article's id.
-9. callArticleList: Call article list by list's id.
-10. callBloggerDetail: Call blogger detail by blogger's id.
-11. callRecommendList: Call recommend list on home page by recomment list's id.
-12. callBindAccount: Call up the accound binding page of iPick.
-13. callHomepage: Call up the home page of iPick.
-14. callMyFeeds: Call Food Moments on home page.
-15. callUserFeeds: Call user's feeds by user's id.
-16. callRestaurantFeeds: Call restaurant's feeds by restaurant's id.
-17. callFeedsDetail: Call a feed detail by feed's id.
-18. callSystemMessage: Call system message page.
-19. callUserMessage: Call user message page.
-20. callCommentDetail: Call single comment detail by comment's id.
+1. [error](#ipickerror): This function provide a callback parameter for dispose technology limited in chrome browser.
+2. [config](ipickconfig): Setting which type to call iPick(either 'iframe' of 'a' element).
+3. [setShareConfig](ipicksetshareconfig): Set shared config for top right corner share button of in-app webview.
+4. [callShare](ipickcallshare): Trigger share function directly.
+5. [callRestaurantDetail](ipickcallrestaurantdetail): Call restaurant detail by restaurant's id.
+6. [callSearchList](ipickcallsearchlist): Call search result of restaurant list by condition parameters.
+7. [callInappWebview](ipickcallinappwebview): Call in-app webview.
+8. [callArticleDetail](ipickcallarticledetail): Call article(critics) detail by article's id.
+9. [callArticleList](ipickcallarticlelist): Call article list by list's id.
+10. [callBloggerDetail](ipickcallbloggerdetail): Call blogger detail by blogger's id.
+11. [callRecommendList](ipickcallrecommendlist): Call recommend list on home page by recomment list's id.
+12. [callBindAccount](ipickcallbindaccount): Call up the accound binding page of iPick.
+13. [callHomepage](ipickcallhomepage): Call up the home page of iPick.
+14. [callMyFeeds](ipickcallmyfeeds): Call Food Moments on home page.
+15. [callUserFeeds](ipickcalluserfeeds): Call user's feeds by user's id.
+16. [callRestaurantFeeds](ipickcallrestaurantfeeds): Call restaurant's feeds by restaurant's id.
+17. [callFeedsDetail](ipickcallfeedsdetail): Call a feed detail by feed's id.
+18. [callSystemMessage](ipickcallsystemmessage): Call system message page.
+19. [callUserMessage](ipickcallusermessage): Call user message page.
+20. [callCommentDetail](ipickcallcommentdetail): Call single comment detail by comment's id.
 
 
 ----------
