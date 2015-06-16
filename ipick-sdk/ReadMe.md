@@ -55,7 +55,7 @@ Method 2(Use cmd or amd):
 <br>
 ## ipick.error ##
 	/**
- 	 * Since iframe call up the nation app is not supported, while use it in chrome, this api provide a hack way.
+ 	 * Since iframe call up the nation app is not supported, while using it in chrome, this api provides a hack way.
  	 * @param {function} callback
  	 */
     ipick.error(callback);
@@ -69,7 +69,7 @@ Method 2(Use cmd or amd):
 	/**
 	 * Because of production requirements that is required to 
 	 * call up iPick while user has been installed it, 
-	 * or redirect to download page while user doesn't install,
+	 * or redirect to download page while user doesn't install it,
 	 * the sdk is default to follow the requirements in almost all browsers except 'Chrome'.
 	 * It's default to set 'method' false.
  	 * @param {object} obj just support 'method' property so far. 'true' for use 'a' element, 'false' to use 'iframe'
